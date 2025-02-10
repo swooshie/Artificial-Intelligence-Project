@@ -5,4 +5,4 @@ Assignments submission repository for CS-GY 6613 AI
 
 Here is my discord Profile snapshot
 
-![Alt text](DiscordProfile.png?raw=true "Optional Title")
+<img src="DiscordProfile.png" width="300" />
