@@ -10,7 +10,7 @@
 - Video frames are then saved to MongoDB if the caption is not matching from the previous one
 - These mongodb documents contain each detail about the video frame and video it belongs to which will then be used in the next step
 
-### Featurization and Output Pipline (featurizarion.ipynb)
+### Featurization and Output Pipline (featurization.ipynb)
 
 - Qdrant is used to create collection to maintain feature vectors and find similar ones using cosine similarity
 - Initialize OpenCLIP model for finetuning of image features using the 'openai' pretrained weights
