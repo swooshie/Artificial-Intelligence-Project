@@ -5,7 +5,7 @@ from pydantic import BaseModel
 import json
 
 # Configuration
-OPENROUTER_API_KEY = "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"  # Replace with your actual API key
+OPENROUTER_API_KEY = "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"
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1"
 
 # Models
