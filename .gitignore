@@ -12,6 +12,12 @@ Assignment-3/runs
 Assignment-3/.DS_Store
 Assignment-4/backup/*
 Assignment-4/mcp-server-demo/*
+Assignment-4/apikey.txt
+Assignment-4/mcp_server.py
+Assignment-4/mcp_client.py
+Assignment-4/temp.ipynb
+Assignment-4/__pycache__/*
 Project/clips/*
 Project/dataset/*
 Project/subtitles/*
+.DS_Store
